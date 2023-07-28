@@ -1,0 +1,8 @@
+C:\dialytask\Day_16\assign18\bin\Debug\assign18.exe.config
+C:\dialytask\Day_16\assign18\bin\Debug\assign18.exe
+C:\dialytask\Day_16\assign18\bin\Debug\assign18.pdb
+C:\dialytask\Day_16\assign18\obj\Debug\assign18.csproj.AssemblyReference.cache
+C:\dialytask\Day_16\assign18\obj\Debug\assign18.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_16\assign18\obj\Debug\assign18.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_16\assign18\obj\Debug\assign18.exe
+C:\dialytask\Day_16\assign18\obj\Debug\assign18.pdb
